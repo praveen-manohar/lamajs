@@ -130,7 +130,7 @@ Hides the loading element
 
 # Contribution
 
-I welcome pull requests from all! Thanks in advance! Visit our [Contributions](CONTRIBUTING.md) page for more information.
+I welcome pull requests from all! Thanks in advance!
 
 
 # License
