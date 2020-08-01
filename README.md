@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./images/logo.png" alt="lama.js logo"/>
+<img src="/images/icon.png" alt="lama.js logo" width="300" height="300"/>
 </p>
 
 LAMA.JS is a framework to build *cross-platform* and *cross-device* HTML/CSS/JavaScript applications that have the look and feel of a native app. Create seamless applications with minimal effort from scratch or power your existing application by simply integrating lama.js into it. Create standalone applications using just Sublime Text or any other code editors.
@@ -12,7 +12,7 @@ lama aims to create applications that are compatible with all browsers and devic
 
 # Setup
 
-For a live demo, visit [lama.js](https://praveen-manohar.github.io/lama.js/) on desktop or mobile.
+For a live demo, visit [lama.js](https://praveen-manohar.github.io/lamajs/) on desktop or mobile.
 <p align="center">
 <img src="./images/demo.gif" alt="Demo"/>
 </p>
